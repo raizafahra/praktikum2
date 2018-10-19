@@ -1,4 +1,4 @@
-#Praktikum2
+# Praktikum2
 
 ##Latihan1.cpp Menghitung bilangan terbesar dari 3 bilangan
 
@@ -9,7 +9,11 @@
 4. Kondisi **True** maka bandingan nilai variabel **A** dengan **C**
 5. Kondisi **False** maka bandingkan nilai variabel **B** dengan **C**
 
-**Flowchart Program**
+**Flowchart Program** 
+https://github.com/raizafahra/praktikum2/blob/master/latihan1/flowchart1.png
+
+**Gambar program**
+https://github.com/raizafahra/praktikum2/blob/master/latihan1/gambar1.png
 
 
 **Code Program Lengkap:**
@@ -56,6 +60,10 @@ int main(){
 6. Kondisi **False** maka bandingkan nilai variabel **B** dengan **C**
 
 **Flowchart Program**
+https://github.com/raizafahra/praktikum2/blob/master/latihan2/flowchart2.png
+
+**Gambar program**
+https://github.com/raizafahra/praktikum2/blob/master/latihan2/gambar2.png
 
 
 **Code program lengkap**
