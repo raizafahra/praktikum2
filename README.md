@@ -43,6 +43,7 @@ int main(){
 
 
 }
+```
 
 ###Latihan2.cpp : Menghitung bilangan terbesar dari 4 bilangan
 
@@ -58,6 +59,7 @@ int main(){
 
 
 **Code program lengkap**
+```
 #include<iostream>
 using namespace std;
 
@@ -83,4 +85,4 @@ using namespace std;
        else
             cout << "bilangan terbesar adalah: " << d <<endl;
     }
- 
+ ```
